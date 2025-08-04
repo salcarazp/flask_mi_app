@@ -8,3 +8,7 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
+'''
+Esto es un archivo de documento
+en el codigo de python
+'''
